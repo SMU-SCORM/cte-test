@@ -17,6 +17,7 @@ Clear instructions and steps for Codex to execute the task.
 ## Guidelines
 - Rules to follow.
 - Constraints.
+- Limitations are here to test
 
 ## Workflow
 1. Step one.
